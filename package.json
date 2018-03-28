@@ -1,0 +1,29 @@
+{
+  "name": "restfakeservice",
+  "version": "1.0.0",
+  "description": "A fake rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospatinos/restFakeService.git"
+  },
+  "keywords": [
+    "fake",
+    "rest-api",
+    "node"
+  ],
+  "author": "Carlos Patino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlospatinos/restFakeService/issues"
+  },
+  "homepage": "https://github.com/carlospatinos/restFakeService#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "faker": "^4.1.0"
+  }
+}
